@@ -17,7 +17,7 @@ connect.send('VKWebAppInit', {});
 
 ReactDOM.render(
     <div>
-    <Iframe url="https://vkform.ru/"
+    <Iframe url="https://www.youtube.com/watch?v=napUAIh4UE0&list=RD5uOHMdkA6G0&index=7"
         width="100%"
         height="810px"
         id="myId"
